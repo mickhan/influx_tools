@@ -1,0 +1,6 @@
+secret.py
+settings.py
+.python-version
+venv/
+.idea/
+__pycache__/

@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__mtime__ = '2018/12/17'
+
+host = "1.1.1.1"
+port = "8086"
+db = "db_name"
+rp = ['1m', '10m', '1h', '6h']
+postfix = True
+resample = True
